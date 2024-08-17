@@ -1,0 +1,16 @@
+{
+  "creativeTabs.heersweapons": "赫尔的武器工坊",
+
+  "item.heersweapons.belveth_mercy": "虚空:轰鸣寂静",
+  "item.heersweapons.belveth_mercy.purple": "紫化度: %d",
+  "item.heersweapons.belveth_mercy.description": "这份力量来自于另一个世界,来自于其注定灭亡结局的造就者:虚空女皇 卑尔维斯",
+  "item.heersweapons.belveth_mercy.skill.1.title": "[被动：溶烛化紫]",
+  "item.heersweapons.belveth_mercy.skill.1.description": "使用武器击杀单位会获得1点「紫化度」,击杀大型BOSS会额外获得5点「紫化度」。\n紫化度会提高武器的攻击速度。",
+  "item.heersweapons.belveth_mercy.skill.1.description_simplified": "击杀获得「紫化度」。",
+  "item.heersweapons.belveth_mercy.skill.2.title": "[主动：搠面皇锋]",
+  "item.heersweapons.belveth_mercy.skill.2.description": "召唤出一阵切割风暴围绕自身，获得害吸收和提升过的生命偷取。\n一共进行%d次切割，每次切割都会打击范围内随机的单位。\n风暴的切割次数受益于「紫化度」。",
+  "item.heersweapons.belveth_mercy.skill.2.description_simplified": "攻击周围随机目标%d次(受益于「紫化度」),\n同时获得伤害吸收和提升过的生命偷取。",
+  "item.heersweapons.belveth_mercy.skill.3.title": "[被动：万载豪筵]",
+  "item.heersweapons.belveth_mercy.skill.3.description": "对相同目标的每第二次攻击会造成额外真实伤害，可无限叠加。\n击杀怪物后有概率掉落一片虚空珊瑚。虚空珊瑚可以被攻击,攻击后玩家会立刻瞬移到珊瑚的位置,并在短时间后对附近所有敌人造成真实伤害。",
+  "item.heersweapons.belveth_mercy.skill.3.description_simplified": "攻击可叠加真实伤害\n击杀怪物后概率掉落虚空珊瑚。"
+}
